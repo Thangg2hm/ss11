@@ -78,7 +78,7 @@
         flex-direction: column;
     }
     .sidebar1, .sidebar2 {
-        width: 200px;
+        width: 500px;
         height: 100px;
         border-radius: 10px;
         color: white;
@@ -87,13 +87,13 @@
     }
 
     .content{
-        width: 200px;
+        width: 500px;
         height: 500px;
         text-align: center;
         font-size: 100%
     }
     .head ,.footer {
-        width:200px;
+        width:500px;
         height: 100px;
     }
 
