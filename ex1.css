@@ -59,6 +59,7 @@
     color: white;
     text-align: center;
     font-size: 200%;
+    margin-bottom: 15px;
 }
 
 .footer {
@@ -69,6 +70,7 @@
     color: white;
     text-align: center;
     font-size: 200%;
+    margin-top: 15px;
 }
 
 @media (max-width: 1024px) {
